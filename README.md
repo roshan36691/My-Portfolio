@@ -4,8 +4,8 @@
 I completed this project as a master's thesis for the Master's program in Ireland.
 * Technologies: Python, Shiny, Git
 * Data: - For Ireland is collected from [met.ie](https://www.met.ie/climate/climate-change-indices-etccdi)
-      For Germany is collected from [opendata.dwd](https://opendata.dwd.de)
-      For Jena Experiment is collected from [jexis](https://jexis.idiv.de/)
+      - For Germany is collected from [opendata.dwd](https://opendata.dwd.de)
+      - For Jena Experiment is collected from [jexis](https://jexis.idiv.de/)
 * Analyzed Ireland’s and Germany’s climate data using statistical methods like Mann-Kendall test and change point
 analysis to uncover trends in temperature and precipitation.
 * Explored the impact of climate changes on ecological systems, including analysis of the Jena Experiment, to link climatic
