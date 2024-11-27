@@ -15,3 +15,13 @@ variables with ecosystem productivity.
 * Created interactive maps and dashboards for data visualization.
 * Developed a user-friendly web application using Shiny for interactive visualization of climate indices across multiple
 regions [Climate_Data_Analysis](https://climatepredictions.shinyapps.io/apppy/)
+
+# [ Project 2: Automated Data Pipeline ](https://github.com/roshan36691/Dissertation)
+
+* Objective :To developed a web scraping strategy to collect, clean, and analyze automobiles data from a leading automobile website
+* Technologies used: Python, BeautifulSoup, Matplotlib.
+* Data was web scrapped from this website
+* Used Python libraries like BeautifulSoup and Requests to automate data extraction and processing.
+* Conducted exploratory data analysis (EDA) with Pandas and Matplotlib, including generating summary statistics and
+visualizations
+* Delivered a structured, clean dataset and analytical insights.
