@@ -3,7 +3,8 @@
 # [Project 1: Studying Ireland’s Climate Change Indices] 
 I completed this project as a master's thesis for the Master's program in Ireland.
 
-* Technologies used: Python, Shiny, Git
+* Objective: Analysis of climate data to identify evolving trends in Temperature and Precipitation and compare Ireland's climate trends with other regions globally and also evaluate the influence of climate indices on ecological experiments and finally develop a user-friendly web app to visualize climate data and insights.
+* Technologies used: Python, Shiny, Git.
 * Data for Ireland is collected from [met.ie](https://www.met.ie/climate/climate-change-indices-etccdi)
 * Data for Germany is collected from [opendata.dwd](https://opendata.dwd.de)
 * Data for Jena Experiment is collected from [jexis](https://jexis.idiv.de/)
