@@ -11,4 +11,4 @@ analysis to uncover trends in temperature and precipitation.
 variables with ecosystem productivity.
 * Created interactive maps and dashboards for data visualization.
 * Developed a user-friendly web application using Shiny for interactive visualization of climate indices across multiple
-regions [climate_Data_Analysis](https://climatepredictions.shinyapps.io/apppy/)
+regions [Climate_Data_Analysis](https://climatepredictions.shinyapps.io/apppy/)
