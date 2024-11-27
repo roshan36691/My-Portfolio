@@ -1,6 +1,6 @@
 #  Roshan Chandru Portfolio
 
-# [Project 1: Studying Ireland’s Climate Change Indices] 
+# [ Project 1: Studying Ireland’s Climate Change Indices ] 
 I completed this project as a master's thesis for the Master's program in Ireland.
 
 * Objective: Analysis of climate data to identify evolving trends in Temperature and Precipitation and compare Ireland's climate trends with other regions globally and also evaluate the influence of climate indices on ecological experiments and finally develop a user-friendly web app to visualize climate data and insights.
