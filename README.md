@@ -1,6 +1,6 @@
 #  Roshan Chandru Portfolio
 
-# [Project 1: Master thesis: “Studying Ireland’s Climate Change Indices” | Python, Shiny, Git, Statistical Analysis] 
+# [Project 1: Studying Ireland’s Climate Change Indices | Python, Shiny, Git, Statistical Analysis] 
 I completed this project as a master's thesis for the Master's program in Ireland.
 * Data for Ireland is collected from [met.ie] (https://www.met.ie/climate/climate-change-indices-etccdi)
 * Data for Germany is collected from [opendata.dwd] (https://opendata.dwd.de)
