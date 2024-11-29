@@ -35,7 +35,7 @@ Regression to forecast NBA player performance metrics such as rebounds per game.
 * Analyzed an extensive NBA dataset, performing data preprocessing, feature engineering, and hyperparameter tuning to
 enhance model accuracy.
 
-# [ Project 4: Investment Dashboard for Unicorn Companies ](https://github.com/roshan36691/Dissertation)
+# [ Project 4: Investment Dashboard for Unicorn Companies ](https://github.com/roshan36691/Project-4-Investment-Dashboard-for-Unicorn-Companies)
 
 * Objective : To create a interactive investment dashboard for Unicorn Companies using Tableau.
 * Technologies used: Python, Tableau
