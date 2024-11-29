@@ -26,16 +26,7 @@ regions [Climate_Data_Analysis](https://climatepredictions.shinyapps.io/apppy/)
 visualizations
 * Delivered a structured, clean dataset and analytical insights.
 
-# [ Project 3: Fitness Data Analysis](https://github.com/roshan36691/Dissertation)
-
-* Objective :
-* Technologies used: Python, Pandas, Seaborn, Matplotlib
-* Conducted an in-depth analysis of Fitbit fitness tracker data to uncover user activity trends and insights.
-* Cleaned and merged data from multiple datasets.
-* Visualized trends and Used statistical a nalysis, including t-tests and ANOVA, to evaluate differences across variables and
-derived actionable insights for marketing strategies.
-
-# [ Project 4: NBA Player Performance Prediction  ](https://github.com/roshan36691/Dissertation)
+# [ Project 3: NBA Player Performance Prediction  ](https://github.com/roshan36691/Dissertation)
 
 * Objective : To develop a performance prediction model of NBA players
 * Technologies used: Python, Scikit-learn, Machine Learning
@@ -44,7 +35,7 @@ Regression to forecast NBA player performance metrics such as rebounds per game.
 * Analyzed an extensive NBA dataset, performing data preprocessing, feature engineering, and hyperparameter tuning to
 enhance model accuracy.
 
-# [ Project 5: Investment Dashboard for Unicorn Companies ](https://github.com/roshan36691/Dissertation)
+# [ Project 4: Investment Dashboard for Unicorn Companies ](https://github.com/roshan36691/Dissertation)
 
 * Objective : To create a interactive investment dashboard for Unicorn Companies using Tableau.
 * Technologies used: Python, Tableau
