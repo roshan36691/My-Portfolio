@@ -30,6 +30,7 @@ visualizations
 
 * Objective : To develop a performance prediction model of NBA players
 * Technologies used: Python, Scikit-learn, Machine Learning
+* Data was collected from [Kaggle](https://www.kaggle.com/datasets/yakhyojon/national-basketball-association-nba)
 * The machine learning techniques like Gradient Boosting, Random Forest, and Linear
 Regression to forecast NBA player performance metrics such as rebounds per game.
 * Analyzed an extensive NBA dataset, performing data preprocessing, feature engineering, and hyperparameter tuning to
@@ -39,6 +40,7 @@ enhance model accuracy.
 
 * Objective : To create a interactive investment dashboard for Unicorn Companies using Tableau.
 * Technologies used: Python, Tableau
+* Data was collected from [kaggle](https://www.kaggle.com/code/vineethakkinapalli/unicorn-companies-eda)
 * Created visualizations that explored trends in valuation, geographical impact on investment, industry influence on
 funding success, and the activity of top investors.
 * Synthesized insights into a comprehensive dashboard, highlighting patterns such as regional investment concentrations,
