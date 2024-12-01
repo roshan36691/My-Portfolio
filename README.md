@@ -45,3 +45,13 @@ enhance model accuracy.
 funding success, and the activity of top investors.
 * Synthesized insights into a comprehensive dashboard, highlighting patterns such as regional investment concentrations,
 industry-specific funding success, and key investor strategies.
+
+# [ Project 5: Heart Disease Prediction System ](https://github.com/roshan36691/Project-4-Investment-Dashboard-for-Unicorn-Companies)
+* Objective: To develop a predictive model to assess the risk of heart disease in individuals using clinical and demographic data.
+* Technologies used: Python, Scikit-learn, Pandas, NumPy, Matplotlib.
+* Data: Heart disease datasets were collected from [Kaggle](https://www.kaggle.com/datasets/arezaei81/heartcsv)
+* Implemented data preprocessing techniques including normalization and feature selection to enhance model performance.
+Explored various machine learning models and systematically optimized them through hyperparameter tuning.
+* Created visualizations to display the effectiveness of different models and their prediction accuracies, aiding in informed model selection.
+* Achieved high prediction accuracy, offering potential use cases in medical diagnostics to support healthcare professionals in early intervention strategies.
+
