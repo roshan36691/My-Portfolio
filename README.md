@@ -26,7 +26,7 @@ regions [Climate_Data_Analysis](https://climatepredictions.shinyapps.io/apppy/)
 visualizations
 * Delivered a structured, clean dataset and analytical insights.
 
-# [ Project 3: NBA Player Performance Prediction  ](https://github.com/roshan36691/Dissertation)
+# [ Project 3: NBA Player Performance Prediction  ](https://github.com/roshan36691/Project-3-NBA-Player-Performance-Prediction)
 
 * Objective : To develop a performance prediction model of NBA players
 * Technologies used: Python, Scikit-learn, Machine Learning
